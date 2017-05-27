@@ -1,0 +1,67 @@
+#dataTable{
+	padding-top: 25px;
+}
+
+
+.femp{
+	padding:10px;
+	margin:0;
+	background-color: #070173;
+	color:#FFF;
+	font-size: 2em;
+	text-align:center;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;	
+}
+
+.chead{
+	padding:10px;
+	margin:0;
+	background-color: #070173;
+	color:#FFF;
+	font-size: 2em;
+	text-align:center;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}	
+
+#employeename{
+	border:1px solid #070173;
+	border-top-color: #FFF;
+
+}
+
+#depositChart{
+	border:1px solid #070173;
+	border-top-color: #FFF;
+}
+
+
+
+
+#depositeChart{
+	border:1px solid #070173;
+	border-top-color: #FFF;
+}
+.ctype{
+	padding:10px;
+	text-align:right;
+}
+
+
+#depositChart{
+	width:200px;
+	height:200px;
+}
+
+#dtable td{
+	text-align:right;
+}
+
+.totalth{
+	text-align:right;
+}
+#depositeChart{
+		width: 200px;
+		height: 200px;
+}
